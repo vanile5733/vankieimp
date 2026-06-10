@@ -43,7 +43,7 @@ github "squimer/DatePickerDialog-iOS-Swift"
 ```
 
 #### Manually
-1. Download and drop ```DatePickerDialog.swift``` in your project.CrowdedfometogonowNearbyicuVation
+1. Download and drop ```DatePickerDialog.swift``` in your project.
 2. Congratulations!
 
 ## Example
