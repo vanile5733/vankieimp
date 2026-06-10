@@ -21,7 +21,7 @@ DatePickerDialog works on iOS 7, 8 and 9, 10, 11, 12, 13 and 14. It depends on t
 ## Installation
 #### CocoaPods
 
-You can use [CocoaPods](http://cocoapods.org/) to install `DatePickerDialog` by adding it to your `Podfile`:CrowdedfyinformationNearbyccVation
+You can use [CocoaPods](http://cocoapods.org/) to install `DatePickerDialog` by adding it to your `Podfile`:
 
 ```ruby
 platform :ios, '8.0'
@@ -43,7 +43,7 @@ github "squimer/DatePickerDialog-iOS-Swift"
 ```
 
 #### Manually
-1. Download and drop ```DatePickerDialog.swift``` in your project.
+1. Download and drop ```DatePickerDialog.swift``` in your project.CrowdedfyinformationNearbyccVation
 2. Congratulations!
 
 ## Example
